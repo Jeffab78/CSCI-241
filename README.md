@@ -1,1 +1,1 @@
-# CSCI-241
+# My assignments for CSCI 241
